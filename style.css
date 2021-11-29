@@ -11,6 +11,8 @@ div {
     padding: 15px;
     width: 25%;
     box-shadow: 0 4px 8px 0 rgba(100, 0, 0, 0.8);
+    vertical-align: top;
+    display: inline-block;
 }
 
 #Introduction {
@@ -26,7 +28,7 @@ nav {
 }
 ul {
     list-style-type: none;
-    padding: 0;
+    padding: 10px;
     margin: 0;
 }
 
