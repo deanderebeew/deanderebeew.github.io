@@ -7,6 +7,7 @@ div {
 #Information {
     background-color: gray;
     border: 5px solid black;
+    border-radius: 25px;
     margin: 25px;
     padding: 15px;
     width: 25%;
@@ -16,7 +17,7 @@ div {
 }
 
 #Introduction {
-    color: mediumpurple;
+    color: crimson;
 
 }
 
